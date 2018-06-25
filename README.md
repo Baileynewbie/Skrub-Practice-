@@ -20,3 +20,5 @@
 <h1>Back to Doggo</h1>
 <img src="https://lifeboat.com/blog.images/dog-ownership-linked-to-lower-mortality.jpg" alt="standing doggo">
 <p>And Back to Doggo</p>
+<img src="http://1ryzas42x65e2oosia40bgli.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/ohmycorgi.jpg" alt="doggo">
+<p>Doggo battle</p>
