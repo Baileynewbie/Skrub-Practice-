@@ -10,3 +10,7 @@
 <h1>BORK</h1>
 <img src="https://media.mnn.com/assets/images/2018/02/swedish_vallhund_on_table.jpg.653x0_q80_crop-smart.jpg" alt="bork">
 <p>Borking around</p>
+<img src="https://media.mnn.com/assets/images/2018/02/swedish_vallhund_headshot.jpg.838x0_q80.jpg" alt="same bork">
+<p>Bork machine </p>
+<img src="https://media.mnn.com/assets/images/2018/02/swedish_vallhund_profile.jpg.838x0_q80.jpg" alt="bork">
+<p>One good boi</p>
