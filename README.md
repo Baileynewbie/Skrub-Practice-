@@ -17,3 +17,6 @@
 <h1>WOLF??</h1>
 <img src="https://www.nationalgeographic.com/content/dam/animals/pictures/mammals/g/gray-wolf/gray-wolf_01.ngsversion.1484679603276.adapt.676.1.JPG" alt="wolf">
 <p>Not a doggo</p>
+<h1>Back to Doggo</h1>
+<img src="https://lifeboat.com/blog.images/dog-ownership-linked-to-lower-mortality.jpg" alt="standing doggo">
+<p>And Back to Doggo</p>
