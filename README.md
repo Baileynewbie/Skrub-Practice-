@@ -14,3 +14,6 @@
 <p>Bork machine </p>
 <img src="https://media.mnn.com/assets/images/2018/02/swedish_vallhund_profile.jpg.838x0_q80.jpg" alt="bork">
 <p>One good boi</p>
+<h1>WOLF??</h1>
+<img src="https://www.nationalgeographic.com/content/dam/animals/pictures/mammals/g/gray-wolf/gray-wolf_01.ngsversion.1484679603276.adapt.676.1.JPG" alt="wolf">
+<p>Not a doggo</p>
