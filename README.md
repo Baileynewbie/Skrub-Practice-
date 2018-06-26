@@ -1,4 +1,5 @@
 # Skrub-Practice-
+<a href="#Backtodoggo">Back to Doggo</a>
 <h1>Kat Pics Project</h1>
 <h2>KATS</h2>
 <img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back.">
@@ -17,7 +18,7 @@
 <h1>WOLF??</h1>
 <img src="https://www.nationalgeographic.com/content/dam/animals/pictures/mammals/g/gray-wolf/gray-wolf_01.ngsversion.1484679603276.adapt.676.1.JPG" alt="wolf">
 <p>Not a doggo</p>
-<h1>Back to Doggo</h1>
+<h1 id="Backtodoggo">Back to Doggo</h1>
 <img src="https://lifeboat.com/blog.images/dog-ownership-linked-to-lower-mortality.jpg" alt="standing doggo">
 <p>And Back to Doggo</p>
 <img src="http://1ryzas42x65e2oosia40bgli.wpengine.netdna-cdn.com/wp-content/uploads/2017/06/ohmycorgi.jpg" alt="doggo">
